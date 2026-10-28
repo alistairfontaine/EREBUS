@@ -1,0 +1,9 @@
+# Object and Binary files
+*.o
+*.gch
+build/
+erebus_core
+
+# Custom Binary Payload Exclusions (for local testing only)
+*.erb
+
